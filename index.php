@@ -16,16 +16,23 @@
 	  width: 90%;
 	}
 	.blog {
+		background-color:white;
 	  margin: 0 auto 53px;
 	  width: 93.75%; /* 900px / 960px */
 	}
 	.blog .main {
-	  float: left;
+	 background-color:blue;
+	 float: left;
 	 width: 62.888889%; /* 566px / 900px */
 	}
 	.blog .other {
+		background-color:red;
 	  float: right;
 	  width: 36.777778%; /* 331px / 900px */
+	}
+	
+	.lede {
+		padding: 0.8em 5.33333333%; /* 48px / 900px */
 	}
 
 	h1 {
